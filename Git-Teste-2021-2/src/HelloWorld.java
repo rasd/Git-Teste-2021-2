@@ -8,6 +8,8 @@ public class HelloWorld {
 		System.out.println("Testando Import!");
 		
 		System.out.println("Commit Branch Main + Eclipse + Bash");
+		
+		System.out.println("Commit para Pull Request");
 	}
 
 }
