@@ -7,7 +7,7 @@ public class HelloWorld {
 		System.out.println("Copia BASH - Novo Commit - SSH");
 		System.out.println("Testando Import!");
 		
-		System.out.println("Commit Branch Main + Eclipse");
+		System.out.println("Commit Branch Main + Eclipse + Bash");
 	}
 
 }
